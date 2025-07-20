@@ -1,9 +1,7 @@
 # tcp-ip
 
-Here’s the **final `README.md`** file for your repository:
 
-
-# TCP/IP Client-Server Tasks
+# TCP/IP Client-Server Programming
 
 This repository contains various tasks related to **TCP/IP protocols**, focusing on client-server communication using both **TCP (stream)** and **UDP (datagram)** sockets.
 

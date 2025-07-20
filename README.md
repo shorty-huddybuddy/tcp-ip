@@ -1,6 +1,6 @@
 # tcp-ip
 
-# TCP/IP Client-Server Tasks
+# TCP/IP Client-Server Pragramming
 
 This repository contains various tasks related to **TCP/IP protocols**, focusing on client-server communication using both **TCP (stream)** and **UDP (datagram)** sockets.
 
@@ -37,10 +37,36 @@ This repository contains various tasks related to **TCP/IP protocols**, focusing
 ---
 
 ## **How to Run**
-- Compile each program using `gcc` (or your preferred compiler).
-- Run the server first, then the client(s).
-- Detailed steps will be added in each task's folder.
+- For **C programs**, compile using:
+  ```bash
+  gcc filename.c -o output_name
+  ./output_name
+  ```
+-  For Python programs, run directly using:
+  ```
+python filename.py
+```
+
 
 ---
+### Repository Structure
 
-## **Repository Structure**
+├── task1_tcp_chat/
+│   ├── client.py
+│   └──  server.py
+│
+├── task2_udp_chat/
+│   ├──  client.py
+│   └──  server.py
+│
+├── task3_sockets/
+│   ├── part_a/
+│   │   ├── client1.c 
+│   │   ├── client2.c 
+│   │   └── server.c 
+│   └── part_b/
+│       ├── client1.c 
+│       ├── client2.c 
+│       └── server.c 
+└── README.md
+

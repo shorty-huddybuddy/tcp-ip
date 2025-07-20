@@ -128,24 +128,26 @@ This repository contains various tasks related to **TCP/IP protocols**, focusing
 ## **Repository Structure**
 
 ```
-
 ├── task1_tcp_chat/
-│   ├── client.c / client.py
-│   └── server.c / server.py
+│   ├──  client.py
+│   └──  server.py
 │
 ├── task2_udp_chat/
-│   ├── client.c / client.py
-│   └── server.c / server.py
+│   ├──  client.py
+│   └──  server.py
 │
 ├── task3_sockets/
 │   ├── part_a/
-│   │   ├── client1.c / client1.py
-│   │   ├── client2.c / client2.py
-│   │   └── server.c / server.py
+│   │   ├── client1.c 
+│   │   ├── client2.c 
+│   │   └── server.c 
 │   └── part_b/
-│       ├── client1.c / client1.py
-│       ├── client2.c / client2.py
-│       └── server.c / server.py
+│       ├── client1.c 
+│       ├── client2.c 
+│       └── server.c 
+│
+│
+└── ...remaining
 └── README.md
 ```
 
